@@ -335,5 +335,10 @@
 		}
 	}
 /*Mobile*/
-
+	@media (max-width: 400px){
+		.features-head h1,
+		.docs-head h1{
+			font-size: 3rem;
+		}
+	}
 /*Mobile*/
